@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# Ambiente/segurança
+.env
+*.env
+
+# Dados gerados em runtime
+data/
+data/**
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
